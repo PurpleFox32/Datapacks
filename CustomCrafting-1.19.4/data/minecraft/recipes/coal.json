@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:oak_sapling"
+    },
+    "result": "minecraft:coal",
+    "experience": 0.5,
+    "cookingtime": 1
+}

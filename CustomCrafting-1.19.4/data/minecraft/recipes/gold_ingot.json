@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:dirt"
+    },
+    "result": "minecraft:gold_ingot",
+    "experience": 20,
+    "cookingtime": 1
+}

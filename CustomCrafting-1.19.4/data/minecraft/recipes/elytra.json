@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mgm",
+        "geg",
+        "mgm"
+    ],
+    "key": {
+        "m": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "g": {
+            "item": "minecraft:glass_pane"
+        },
+        "e": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "Unbreakable": 1,
+        "count": 1
+    }
+}

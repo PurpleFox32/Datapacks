@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sa"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:oak_sapling"
+        },
+        "a": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "minecraft:sweet_berries",
+        "count": 1
+    }
+}

@@ -1,0 +1,2 @@
+team leave @a[scores={ready=0}]
+execute at 1df5de7b-c5ed-4aa8-b298-d5f6c491a02f if entity @a[scores={ready=0},distance=30..,tag=!admin] run tp @a[scores={ready=0},tag=!admin] 1df5de7b-c5ed-4aa8-b298-d5f6c491a02f

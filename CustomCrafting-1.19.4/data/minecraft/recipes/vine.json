@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "ggg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:grass"
+        }
+    },
+    "result": {
+        "item": "minecraft:vine",
+        "count": 1
+    }
+}

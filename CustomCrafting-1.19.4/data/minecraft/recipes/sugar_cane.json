@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "sss",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "minecraft:sugar_cane",
+        "count": 3
+    }
+}

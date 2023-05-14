@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:andesite"
+    },
+    "result": "minecraft:potato",
+    "experience": 0.5,
+    "cookingtime": 10
+}

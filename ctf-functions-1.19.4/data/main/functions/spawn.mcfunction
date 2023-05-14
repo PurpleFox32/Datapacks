@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:armor_stand,distance=..30,tag=spawn] if entity @e[type=minecraft:player,distance=..20] run effect give @a[distance=..20] minecraft:resistance 1 255 true
